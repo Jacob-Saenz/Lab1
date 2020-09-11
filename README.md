@@ -1,2 +1,2 @@
-# Lab1
+# Hello World
 Information systems lab 1
